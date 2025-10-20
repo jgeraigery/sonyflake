@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:14.04.5
 
 COPY ./sonyflake_server /sonyflake_server
 
